@@ -2,8 +2,7 @@
 ABOUT
 =====
 
-Version 1.0 - The Android application tracks user's best available GPS location and stores it in a CSV format 
-for [upcoming] use in location analysis.
+Version 1.0 - The Android application tracks user's best available GPS location and stores it in a CSV format for [upcoming] use in location analysis.
 
 ============
 INSTRUCTIONS
