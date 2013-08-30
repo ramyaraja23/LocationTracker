@@ -1,0 +1,1 @@
+Install the apk file LocationTracker.apk onto an Android Device running on API version >= 4 (Android 1.6 or higher)
